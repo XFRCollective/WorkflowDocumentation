@@ -14,7 +14,7 @@ This section reviews the components of the rack, except for the playback decks, 
 
 Using the Sony video monitor we are able to monitor the image before digitization (Pre) and after (Post).  We have labeled both in the front (photo below). Make sure you connect a secondary video output from the deck to the Video A input of the monitor and a video output from the AJA to the Video B input (either BNC or S-Video would work). 
 
- ![image alt text](images/image_0.png)![image alt text](images/image_1.png)
+ ![image alt text](https://github.com/XFRCollective/WorkflowDocumentation/tree/master/images/image_0.png)![image alt text](images/image_1.png)
 
 Left: Pre and Post switches in the front of the Sony monitor. Right: Video inputs of the Sony monitor. Note that you can use only BNC for input A, and BNC or S-video for input B. Just make sure you use only one type of input for Video B, we had some issues with the monitor when connecting both at the same time.
 

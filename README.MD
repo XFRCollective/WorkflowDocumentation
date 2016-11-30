@@ -23,19 +23,19 @@ Left: Pre and Post switches in the front of the Sony monitor. Right: Video input
 
 (Model: Wohler Technologies AMP 1A Analog Audio Monitor Panel)
 
-![](images/Wohler_Technologies_AMP_1A_Analog_Audio_Monitor_Panel-01.png)
+![](images/Wohler_Technologies_AMP_1A_Analog_Audio_Monitor_Panel-01.jpg)
 
 *Front of the audio monitor.*
 
 On the front of the audio monitor, there are knobs for volume and balance. Note that the audio monitor does not have a power switch -- it just turns on when the rack when it is plugged in.
 
-![](images/Wohler_Technologies_AMP_1A_Analog_Audio_Monitor_Panel-02.png)
+![](images/Wohler_Technologies_AMP_1A_Analog_Audio_Monitor_Panel-02.jpg)
 
 *Back of audio monitor.*
 
 The audio monitor has one set of balanced right and left XLR inputs, which we have set up to monitoring post-digitization audio, but it can be switched to pre-digitization monitoring if needed. Besides the balanced XLR inputs, there are unbalanced inputs, which we are not using. There is also a XLR loop-through, but we’re not sure how it can come in handy in a workflow.
 
-![](images/Wohler_Technologies_AMP_1A_Analog_Audio_Monitor_Panel-03.png)
+![](images/Wohler_Technologies_AMP_1A_Analog_Audio_Monitor_Panel-03.jpg)
 
 *XLR outs on the back of the AJA.*
 
@@ -45,7 +45,7 @@ The audio monitor receives the post-digitization audio signal as analog audio fr
 
 (Model: Tektronix WFM 601E Serial Component Monitor)
 
-![](images/Tektronix_WFM_601E_Serial_Component_Monitor-01.png)
+![](images/Tektronix_WFM_601E_Serial_Component_Monitor-01.jpg)
 
 The Tektronix WFM 601E Serial Component Monitor is BOTH a waveform monitor AND vectorscope.  To switch from waveform monitor to vectorscope, press the Vector or Waveform buttons on the Display Menu in the front.
 

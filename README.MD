@@ -203,6 +203,33 @@ Important note: this device has a special power connector (1/8" or 3.5 mm plug, 
 
 Horita Sync Generator, 6 black burst outputs, one 1kHz audio output. 
 
+##  1.7.	Audio Mixer
+
+General deck to mixer wiring:
+
+You will be wiring the deck so that the analog sound from the tape deck is input into the mixer.  From there, the analog sound signal going into the mixer is input into the AJA.
+
+A sound mixer is used for transfers to adjust the pre-digitized/analog sound, to ensure that the audio levels captured by the computer are optimal (i.e., loud enough throughout one or both channels, which depends on whether or not a tape was recorded in stereo or mono).
+
+Appropriate audio levels will depend on the individual tape being transferred.  What this means is that the mixed levels will need to be calibrated per tape: there is no such this as an “optimal setting” on the mixer because each tape will have been recorded using different equipment, with different settings.
+
+Sound should always be tested prior to an entire tape transferred in its entirety.  The analog sound (the sound coming directly out of the tape) should be monitored prior to transfer.  A capture “test” clip using Final Cut Pro (using the usual transfer settings) should be created prior to transfer to test the digitized sound.
+
+To monitor/test analog sound:
+Select the appropriate analog audio output from the deck in question and wire it into the line inputs (Mic 1 and Mic 2) on the mixer.
+Plug in good-quality headphones into the “Phones” output on the mixer.  Press play and wait for a part of the tape containing non-ambient sound.  Look at the LEFT RIGHT level monitors. If sound is being output properly, you should see green lights.
+The top-most green light for each channel should not exceed 4-7 db, on average.  If the yellow or red level indicators light up frequently, clipping may occur*.  To adjust the levels, turn the GAIN knobs to the right or left until optimal levels are achieved (you can adjust either individual channels or the MAIN MIX gain knob).
+Different parts of tapes (for example, home movies with clips recorded at different times with different settings) may require that the levels are “live”-adjusted by whoever is monitoring the transfer.  Make sure someone is always monitoring the audio so that subtle corrections can be made if necessary to the sound.
+Each channel’s levels should be set so that their sound is even.  However, there are exceptions: sometimes, tapes were recorded with sound loud in one channel, and and quieter in another, so you may have to adjust the levels slightly so that they equal one another both before the transfer, and throughout, if necessary. You may be able to check the levels off the original tape if there are meters or a monitor output on the tape deck.
+
+To monitor the digital/transferred sound:
+Create a test video clip using Final Cut Pro.
+Using either speaker monitors, or good-quality headphones, listen to the clip.  While listening:
+Check to make sure sound is coming out evenly throughout each headphone and/or speaker.
+Check to make sure volume is optimal: set the computer’s volume to at least 50% (not sure if this is correct protocol).
+
+*Sometimes, the yellow and red lights may light up, even if the levels on average are only reaching between 4-7 db (for example, a loud sound, like a car horn honking, may happen).  This is okay: just make sure that on average, the sound is not excessive.
+
 ** **
 
 # 2.	Receiving and Preparing Tapes from Partners

@@ -85,7 +85,7 @@ Vectorscope showing SMPTE Bars correctly adjusted.
 
 **(**Model: Tektronix Type 528 Waveform Monitor (even though we use it as RF))
 
-We use the RF monitor to transfer U-matic tapes because it is the only deck that has an RF output. It is useful for seeing if the heads are misaligned, which is a common problem with U-matics. This step allows obtaining the highest level of signal from the tape, by aligning the heads with the video tracks. Erik Piil wrote a blog post about this, which is available in PDF in our Google Drive: [https://drive.google.com/drive/u/2/folders/0B9yFlIIX5_YicHRzcTlpX04zZUk](https://drive.google.com/drive/u/2/folders/0B9yFlIIX5_YicHRzcTlpX04zZUk)
+We use the RF monitor to transfer U-matic tapes because it is the only deck that has an RF output. It is useful for seeing if the heads are misaligned, which is a common problem with U-matics. This step allows obtaining the highest level of signal from the tape, by aligning the heads with the video tracks. 
 
 ![](images/Tektronix_Type_528_Waveform_Monitor-01.png)
 
